@@ -1,0 +1,28 @@
+{
+  "name": "grunt-local-typescript",
+  "description": "Compile ts files with local installed TypeScript",
+  "version": "1.0.0",
+  "homepage": "https://github.com/yyamaguchi/grunt-local-typescript",
+  "author": {
+    "name": "Yutaka Yamaguchi",
+    "email": "yutaka.yamaguchi@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yyamaguchi/grunt-local-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yyamaguchi/grunt-local-typescript/issues"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
